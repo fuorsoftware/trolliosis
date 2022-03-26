@@ -1,0 +1,12 @@
+C:\Users\Hamish Welte\source\repos\susswussnet\obj\Debug\susswussnet.vbproj.AssemblyReference.cache
+C:\Users\Hamish Welte\source\repos\susswussnet\obj\Debug\susswussnet.Form1.resources
+C:\Users\Hamish Welte\source\repos\susswussnet\obj\Debug\susswussnet.Resources.resources
+C:\Users\Hamish Welte\source\repos\susswussnet\obj\Debug\susswussnet.vbproj.GenerateResource.cache
+C:\Users\Hamish Welte\source\repos\susswussnet\obj\Debug\susswussnet.vbproj.CoreCompileInputs.cache
+C:\Users\Hamish Welte\source\repos\susswussnet\bin\Debug\susswussnet.exe.config
+C:\Users\Hamish Welte\source\repos\susswussnet\bin\Debug\susswussnet.exe
+C:\Users\Hamish Welte\source\repos\susswussnet\bin\Debug\susswussnet.pdb
+C:\Users\Hamish Welte\source\repos\susswussnet\bin\Debug\susswussnet.xml
+C:\Users\Hamish Welte\source\repos\susswussnet\obj\Debug\susswussnet.exe
+C:\Users\Hamish Welte\source\repos\susswussnet\obj\Debug\susswussnet.xml
+C:\Users\Hamish Welte\source\repos\susswussnet\obj\Debug\susswussnet.pdb
